@@ -16,7 +16,7 @@ Does reporting on time mean the data is good? A facility can submit its monthly 
 
 | Page 1: Supervision overview | Page 2: Routine indicator trend |
 |---|---|
-| ![Page 1](images/01_supervision_overview.png) | ![Page 2](images/02_anc1_routine_trend.png) |
+| ![Page 1](images/01_supervision_overview.png) | ![Page 2](images/02_anc_routine_trend.png) |
 
 A PDF export is in `dashboard/`.
 
