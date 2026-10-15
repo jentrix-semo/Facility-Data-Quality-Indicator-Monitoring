@@ -1,8 +1,12 @@
 # Facility Data Quality & Indicator Monitoring
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20numpy%20%7C%20scipy-3776AB)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791)
+![Power BI](https://img.shields.io/badge/Dashboard-Power%20BI-F2C811)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 An M&E-style analytics pipeline that pairs **field supervision data** (KoboToolbox) with **routine health-system reporting** (DHIS2), cleaned and validated in Python, modelled in PostgreSQL, and presented in a two-page Power BI dashboard.
 
-> **Data note:** The supervision submissions in this project are **simulated for portfolio purposes**. Facility and sub-county names are real places in Uasin Gishu County, Kenya, used for realism, but **no figure here describes the actual performance of any real facility**. GPS coordinates are approximations. The DHIS2 data comes from DHIS2's public demo instance.
+> **Data note:** The supervision submissions in this project are **simulated for portfolio purposes**. Sub-county names are real places in Uasin Gishu County, Kenya, used for realism, but **no figure here describes the actual performance of any real facility**. GPS coordinates are approximations. The DHIS2 data comes from DHIS2's public demo instance.
 
 ## Project question
 
